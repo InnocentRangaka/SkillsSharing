@@ -1,8 +1,9 @@
 {
-  "name": "ejs-skillsharing",
+  "name": "skillsharing",
   "version": "1.0.0",
   "main": "skillsharing_server.js",
   "description": "Skill-sharing website example from Eloquent JavaScript",
+  "type": "module",
   "dependencies": {
     "http-server": "^14.1.1",
     "ini": "^4.1.3",
@@ -20,6 +21,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/marijnh/Eloquent-JavaScript.git"
+    "url": "https://github.com/InnocentRangaka/SkillsSharing.git"
   }
 }
