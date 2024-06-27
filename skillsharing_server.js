@@ -28,7 +28,7 @@ class SkillShareServer {
   }
 }
 
-import {Router} from "./router.mjs";
+import {Router} from "./router.js";
 
 const router = new Router();
 const defaultHeaders = {"Content-Type": "text/plain"};
